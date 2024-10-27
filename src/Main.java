@@ -1,6 +1,6 @@
 
 public class Main {
-
+    //passer d'un tableau d'entier forcement sur 6 bits a un tableau ou ces entiers sont regrouper 5 par valeur (32/6 = 5)
     public static void compression6bits(int[] tabin, int[] tabout){
         int indiceout=0;
         int pos=0;
